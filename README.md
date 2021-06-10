@@ -153,7 +153,7 @@ Run ```pod install``` in the ios directory. Linking is not required in React Nat
 Add the following to your project's `AppDelegate.m`:
 
 ```diff
-+#import "Orientation.h"
++#import "Orientation_ios.h"
 
 @implementation AppDelegate
 

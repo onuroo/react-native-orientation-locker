@@ -7,7 +7,7 @@
 //
 
 
-#import "Orientation.h"
+#import "Orientation_ios.h"
 
 
 @implementation Orientation
