@@ -10,7 +10,7 @@
 #import "Orientation_ios.h"
 
 
-@implementation Orientation
+@implementation Orientation_ios
 {
 #if (!TARGET_OS_TV)
     UIInterfaceOrientation _lastOrientation;
